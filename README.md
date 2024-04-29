@@ -21,4 +21,4 @@ Customize tooltips to display detailed information about SKUs categorized as A, 
 ### GitHub Repository:
 This repository contains the Power BI file (.pbix) showcasing the ABC analysis.
 Additionally, it includes relevant documentation, such as this README file, to provide insights into the analysis process.
-How to 
+
