@@ -3,7 +3,7 @@
 This repository contains an analysis of ABC categorization using Power BI. ABC analysis is a technique used to categorize items based on their importance, typically used in inventory management and sales analysis. The analysis aims to classify SKUs (Stock Keeping Units) into three categories: A, B, and C, based on their contribution to total sales.
 ## Analysis Process
 ### Data Preparation:
-The analysis utilizes sales data from the 'Past Orders' table, which includes information about SKU IDs and corresponding sales figures.
+The analysis utilizes sales data from the 'Past Orders' table and 'Stock' table , which includes information about SKU IDs and corresponding sales figures.
 Ensure that the data is clean and properly structured before importing it into Power BI.
 
 ### Calculation of Cumulative Sales:
