@@ -48,4 +48,4 @@ Additionally, it includes relevant documentation, such as this README file, to p
 
 
 ## Dashboard Image:
-![porj_1](https://github.com/Tazibava/ABC-Analysis/assets/166983934/61ca1c0f-293c-4d68-9338-404dfaa0c054)
+![Inventory Analysis](https://github.com/Tazibava/ABC-Analysis/assets/166983934/457179fc-6753-4169-85ff-93757d071611)
